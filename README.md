@@ -36,7 +36,10 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/divyjetani/divyjetani/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyjetani/divyjetani/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/divyjetani/divyjetani/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
 
 ---
 
@@ -89,8 +92,8 @@ Built with Node.js, EJS, and MySQL
 
 <p align="left">
 <a href="https://github.com/divyjetani"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/divy-jetani-515a60358"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/_divyjetani_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
