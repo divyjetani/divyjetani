@@ -36,7 +36,7 @@
 
 ## 🧠 Currently Working On
 
-🔐 Privacy-Presving Fraud Detection System  
+🔐 Privacy-Preserving Fraud Detection System  
 📊 Real-time Stock Monitoring Website  
 🌐 Full-stack MERN Applications  
 
@@ -92,6 +92,26 @@
 
 ---
 
+## 🔥 3D Contributions Chart
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyjetani/divyjetani/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyjetani/divyjetani/output-3d-contrib/day.svg" />
+  <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/divyjetani/divyjetani/output-3d-contrib/profile-night-green.svg" />
+</picture>
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/divyjetani?ext=activity" />
+</p>
+
+🔗 https://leetcode.com/u/divyjetani
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -116,6 +136,16 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 🙌 Thanks for Visiting
+
+<div align="center">
+<a href="#">
+    <img height="120" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+</a>
+
+<blockquote>
+<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
+</blockquote>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
