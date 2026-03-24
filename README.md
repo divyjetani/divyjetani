@@ -18,16 +18,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,react,node,express,python,java,c,cpp,html,css,typescript" />
+<img src="https://skillicons.dev/icons?i=js,react,node,express,python,java,c,cpp,html,css" />
 
 ### 🧠 Libraries & Tools
-<img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,vite,babel" />
+<img src="https://skillicons.dev/icons?i==tailwind,bootstrap,vite" />
 
 ### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,netlify,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,githubactions" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
