@@ -54,10 +54,6 @@
 - Role-based dashboards (Farmer & Customer)  
 - Payment simulation system  
 
-### 🔹 Stock Tracker
-- Real-time stock visualization  
-- Built with Node.js, EJS, MySQL  
-
 ---
 
 ## 🏆 Achievements
