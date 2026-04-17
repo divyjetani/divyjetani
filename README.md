@@ -18,20 +18,25 @@ Goal: Become a **Top AI Engineer**
 ## Tech Stack
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,react,express,python,java,c,cpp,html,css,node" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,python,java,c,cpp,html,css,flutter,kotlin,flask,jquery,php,dart,django,fastapi&perline=5" />
 
 ### Libraries & Tools
-<img src="https://skillicons.dev/icons?i==bootstrap,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap,vite,tailwind,selenium,sklearn,nginx,npm,opencv,pytorch,svg&perline=5" />
 
 ### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,gcp,vercel,githubactions" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,visualstudio,androidstudio,idea,pycharm,replit,sublime,eclipse&perline=5" />
 
+### Others
+<img src="https://skillicons.dev/icons?i=ae,blender,cmake,ai,notion,ps,pr,unity,vim&perline=5" />
+
+### OS (worked with)
+<img src="https:skillicons.dev/icons?i=windows,linux,apple" />
 
 ---
 
@@ -105,6 +110,8 @@ Worked with AWS Cloud
 <a href="https://www.linkedin.com/in/divy-jetani-515a60358"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/_divyjetani_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://leetcode.com/u/divyjetani"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+<a href="https://discord.com/users/divy0764"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyjetani2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
