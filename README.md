@@ -36,7 +36,7 @@ Goal: Become a **Top AI Engineer**
 <img src="https://skillicons.dev/icons?i=ae,blender,cmake,ai,notion,ps,pr,unity,vim&perline=5" />
 
 ### OS (worked with)
-<img src="https:skillicons.dev/icons?i=windows,linux,apple" />
+<img src="https://skillicons.dev/icons?i=windows,linux,apple" />
 
 ---
 
