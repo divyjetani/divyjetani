@@ -4,67 +4,67 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-🎓 B.Tech CSE Student  
-💻 Backend Developer | MERN Stack Builder  
-🤖 Interested in AI, ML & scalable systems  
-🚀 Building real-world projects in Fintech & Web  
-🌱 Currently learning **Advanced Backend + AI Integration**  
-🎯 Goal: Become a **Top AI Engineer**
+B.Tech CSE Student  
+Backend Developer | MERN Stack Builder  
+Interested in AI, ML & scalable systems  
+Building real-world projects in Fintech & Web  
+Currently learning **Advanced Backend + AI Integration**  
+Goal: Become a **Top AI Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,react,node,express,python,java,c,cpp,html,css" />
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,react,express,python,java,c,cpp,html,css, node" />
 
-### 🧠 Libraries & Tools
-<img src="https://skillicons.dev/icons?i==tailwind,bootstrap,vite" />
+### Libraries & Tools
+<img src="https://skillicons.dev/icons?i==bootstrap,vite, tailwind" />
 
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,githubactions" />
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions" />
 
-### 🗄️ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
-### ⚙️ Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
 
----
-
-## 🧠 Currently Working On
-
-🔐 Privacy-Preserving Fraud Detection System  
-📊 Real-time Stock Monitoring Website  
-🌐 Full-stack MERN Applications  
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 Fraud Detection System
+### Women Safety Analytics and Threat Detection App
+ - End-to-end app for Women Safety
+ - Automatic SOS and lot of features
+ - Prediction of Safety score using ML
+
+### Fraud Detection System
 - ML-based system using **XGBoost + Autoencoder + MLP**
 - Detects fraud patterns & anomalies
 - Focus on fintech security
 
-### 🔹 Agri Fresh
+### Agri Fresh
 - Farm-to-table platform  
 - Role-based dashboards (Farmer & Customer)  
 - Payment simulation system  
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-🚀 Built multiple full-stack projects  
-📊 Worked on ML-based prediction systems  
-💡 Participated in hackathons  
+Built multiple full-stack projects  
+Built multiple end to end apps
+Worked on ML-based prediction systems  
+Participated in hackathons
+Worked with AWS Cloud
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyjetani&show_icons=true&theme=tokyonight" height="180"/>
@@ -73,13 +73,13 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyjetani&theme=tokyo-night" />
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/divyjetani/divyjetani/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
@@ -88,17 +88,7 @@
 
 ---
 
-## 🔥 3D Contributions Chart
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyjetani/divyjetani/output-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyjetani/divyjetani/output-3d-contrib/day.svg" />
-  <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/divyjetani/divyjetani/output-3d-contrib/profile-night-green.svg" />
-</picture>
-
----
-
-## 🧩 LeetCode
+## LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/divyjetani?ext=activity" />
@@ -108,31 +98,32 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://github.com/divyjetani"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/divy-jetani-515a60358"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/_divyjetani_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://leetcode.com/u/divyjetani"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=divyjetani&label=Profile%20views&color=0e75b6&style=flat" />
 
 ---
 
-## ⚡ Fun Stuff
+## Fun Stuff
 
-🧠 I learn by building real projects  
-🎬 Interested in animations & content creation  
-📸 Exploring creativity + tech  
+I learn by building real projects  
+Interested in animations & content creation  
+Exploring creativity + tech  
 
 ---
 
-## 🙌 Thanks for Visiting
+## Thanks for Visiting
 
 <div align="center">
 <a href="#">
@@ -140,7 +131,7 @@
 </a>
 
 <blockquote>
-<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
+<p><strong>"Keep coding, stay innovative, and build the future!"</strong></p>
 </blockquote>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
