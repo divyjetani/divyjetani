@@ -18,10 +18,10 @@ Goal: Become a **Top AI Engineer**
 ## Tech Stack
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,react,express,python,java,c,cpp,html,css, node" />
+<img src="https://skillicons.dev/icons?i=js,react,express,python,java,c,cpp,html,css,node" />
 
 ### Libraries & Tools
-<img src="https://skillicons.dev/icons?i==bootstrap,vite, tailwind" />
+<img src="https://skillicons.dev/icons?i==bootstrap,vite,tailwind" />
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions" />
