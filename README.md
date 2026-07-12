@@ -27,7 +27,7 @@ Goal: Become a **Top AI Engineer**
 </td>
 
 <td align="center" width="100">
-<a href="https://www.linkedin.com/in/divy-jetani-515a60358">
+<a href="https://www.linkedin.com/in/divyjetani">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>LinkedIn
 </a>
 </td>
@@ -51,7 +51,7 @@ Goal: Become a **Top AI Engineer**
 </td>
 
 <td align="center" width="100">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyjetani2005@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyjetani@influ.co.in">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/><br>Email
 </a>
 </td>
