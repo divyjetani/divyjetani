@@ -588,14 +588,6 @@ Proved understanding of agentic AI concepts, cloud fundamentals, and core securi
 
 ---
 
-## Fun Stuff
-
-I learn by building real projects  
-Interested in animations & content creation  
-Exploring creativity + tech
-
----
-
 ## Thanks for Visiting
 
 <div align="center">
